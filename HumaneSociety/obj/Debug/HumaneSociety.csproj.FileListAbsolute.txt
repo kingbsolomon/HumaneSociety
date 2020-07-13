@@ -1,0 +1,2 @@
+C:\Users\thinksolomonllc\source\repos\Humane Society\HumaneSocietyProject\HumaneSociety\obj\Debug\HumaneSociety.csprojAssemblyReference.cache
+C:\Users\thinksolomonllc\source\repos\Humane Society\HumaneSocietyProject\HumaneSociety\obj\Debug\HumaneSociety.csproj.CoreCompileInputs.cache
